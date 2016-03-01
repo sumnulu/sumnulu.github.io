@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ADSL Router ipucları"
-date:   2016-03-01 19:28:59 +0200
+date:   2016-03-01 15:00:00 +0200
 categories: tips wireless router
 ---
 Adsl router'ların web parolasını öğrenmek veya değiştirmek için ssh veya telnet ile router'a bağlandıktan sonra:
