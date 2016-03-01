@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ADSL Router ipuçları"
+title:  "ADSL Router ipucları"
 date:   2016-03-01 19:28:59 +0200
 categories: tips wireless router
 ---
