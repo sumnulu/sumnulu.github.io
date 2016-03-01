@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "ADSL Router ipuçları"
 date:   2016-01-01 19:28:59 +0200
 categories: tips wireless router
 ---
@@ -16,4 +16,4 @@ admin@(none):/tmp/home/root# nvram get http_passwd
  admin@(none):/tmp/home/root#
 {% endhighlight %}
 
-
+PS: İleriki zamanlarda bu postu güncelleyeceğim.
