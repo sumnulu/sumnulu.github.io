@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ADSL Router ipucları"
+title:  "ADSL Router İpuçları"
 date:   2016-03-01 15:00:00 +0200
 categories: tips wireless router
 ---
@@ -15,5 +15,6 @@ admin@(none):/tmp/home/root# nvram get http_passwd
  cok_gizli_parola
  admin@(none):/tmp/home/root#
 {% endhighlight %}
+
 
 PS: İleriki zamanlarda bu postu güncelleyeceğim.
